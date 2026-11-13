@@ -60,7 +60,7 @@ model.
 ## Requirements
 
 - Python 3.11+
-- Node.js 20+ (for the frontend)
+- Node.js 22.19+ (for the frontend)
 - SQLite (bundled with Python)
 
 ## Quick start
