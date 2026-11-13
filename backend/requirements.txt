@@ -1,0 +1,11 @@
+fastapi>=0.115
+uvicorn[standard]>=0.34
+pydantic>=2.10
+sqlalchemy>=2.0
+alembic>=1.14
+python-multipart>=0.0.20
+httpx>=0.28
+ruamel.yaml>=0.18
+defusedxml>=0.7
+reportlab>=4.2
+packaging>=24.2
